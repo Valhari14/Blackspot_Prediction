@@ -1,0 +1,12 @@
+folium
+pandas
+protobuf
+scikit_learn
+streamlit
+streamlit-folium
+google-generativeai
+google-cloud-aiplatform
+requests
+joblib
+selenium
+pillow
