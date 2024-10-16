@@ -35,7 +35,7 @@ def give_analysis():
         "top_k": 1,
         "max_output_tokens": 2048,
     }
-    model = genai.GenerativeModel(model_name="gemini-pro-vision",
+    model = genai.GenerativeModel(model_name="gemini-1.5-flash",
                                   generation_config=generation_config,
                                   )
 
